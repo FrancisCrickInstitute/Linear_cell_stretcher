@@ -22,10 +22,15 @@
 ### Assembly instructions
 
 - 3D print the components using more than 50% infill settings and PLA as material
+- Laser cut the two-part lid cover
 - Insert M2 threaded inserts on the bottom sides of the 3D printed parts: puller and the enclosure base
-- Solder the PCB components
+- Solder the Control PCB components
 - Solder the optical homing sensor cable and the stepper motor cable with the linear stepper connection board
-- Attach the linear stepper connection board at the back of the motor with the 3D printed spacer in between 
+<img width="1408" height="558" alt="image" src="https://github.com/user-attachments/assets/26ecda6b-5f5d-449b-b183-94ac2c02229c" />
+
+- Attach the linear stepper connection board at the back of the motor with the 3D printed spacer in between
+- Place four M3 inserts in the enclosure base and lid holes
+- Glue the big part of the lid cover on top of the 3D printed enclosure lid
 
 - Change the position of the homing sensor using the front side M3 tapped holes
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/16f881c6-4adf-4f81-81e0-fad2cabbddc9" />
@@ -39,5 +44,29 @@
 - Attach the linear stage with the enclosure base (3D printed) using four M3 screws
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/a0deb7cf-adf3-4c3f-bb51-e8a70bd0439a" />
 
-- The 5 mm bars are held using
-- Conenct the device and the control board 
+- The 5 mm bars are held using 2 M2 screws in both the puller and the 3D printed enclosure
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c11f1a95-af83-4d85-bf49-a08f01d84a8e" />
+
+- Place 4 grub screws into the enclosure lid holes and place the lid on top of the enclosure base
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/93f9021d-d1bc-46fb-b2ff-f8e23f0bdd23" />
+
+- Upload the firmware on the Teensy 4
+- Conenct the device and the control board using a RJ45 cable
+
+- Connect the 12V, 36W power supply in the control board barrel jack connector
+<img width="1374" height="696" alt="image" src="https://github.com/user-attachments/assets/36a613b7-5820-4dbb-8ab1-31f330f3e6c6" />
+
+- Select the frequency (0.05 - 1 Hz) and stretch length (using the stretch and frequancy knobs) and mode (pressing the stretch knob) 
+
+- Press the frequency knob to change the state of the device to active and it will start pulling, if pressed and held again it will stop at the end of the cycle
+
+## Modes:
+- Cyclic stretch
+- Cyclic stretch holding for a defined period of time (specified in the firmware)
+- Stretch and hold
+
+
+### PDMS mould casting process
+
+<img width="1386" height="646" alt="image" src="https://github.com/user-attachments/assets/a2183dd7-f9f1-4db1-ae2a-39e309a966d6" />
+
