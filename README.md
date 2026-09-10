@@ -60,7 +60,7 @@
 
 - Press the frequency knob to change the state of the device to active and it will start pulling, if pressed and held again it will stop at the end of the cycle
 
-## Modes:
+#### Modes:
 - Cyclic stretch
 - Cyclic stretch holding for a defined period of time (specified in the firmware)
 - Stretch and hold
