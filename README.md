@@ -20,4 +20,18 @@
 
 
 ### Assembly instructions
+
+- 3D print the components using more than 50% infill settings and PLA as material
+
+- Change the position of the homing sensor using the front side M3 tapped holes
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/16f881c6-4adf-4f81-81e0-fad2cabbddc9" />
+
+- Attach the 3D printed beam breaker on the carriage using two M3 screws
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/fed7b0b4-8fb3-497a-99eb-c4a5276316fd" />
+
+- Attach the 3D printed puller on top of the linear stage carriage using 4 M3 screws
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/f9868834-e6db-4ef2-8919-45641fc4382e" />
+
+- Attach the linear stage with the enclosure base (3D printed) using four M3 screws
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/a0deb7cf-adf3-4c3f-bb51-e8a70bd0439a" />
+
