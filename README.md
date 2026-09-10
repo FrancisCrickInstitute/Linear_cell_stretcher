@@ -27,7 +27,8 @@
 - Laser cut the two-part lid cover
 - Insert M2 threaded inserts on the bottom sides of the 3D printed parts: puller and the enclosure base
 - Solder the Control PCB components
-- Solder the optical homing sensor cable and the stepper motor cable with the linear stepper connection board
+
+- Cut to the right length and solder the optical homing sensor cable and the stepper motor cable with the linear stepper connection board
 <img width="1420" height="590" alt="image" src="https://github.com/user-attachments/assets/a39745a1-9c80-46ca-93bc-047721532de1" />
 
 
@@ -52,10 +53,14 @@
 - The 5 mm bars are held using 2 M2 screws in both the puller and the 3D printed enclosure
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c11f1a95-af83-4d85-bf49-a08f01d84a8e" />
 
+- Grab the optical sensor cable through the two cable guides
+- <img width="950" height="461" alt="image" src="https://github.com/user-attachments/assets/42f383da-cc16-464b-b19f-9821828b1acf" />
+
 - Place 4 grub screws into the enclosure lid holes and place the lid on top of the enclosure base
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/93f9021d-d1bc-46fb-b2ff-f8e23f0bdd23" />
 
 - Upload the firmware on the Teensy 4
+
 - Conenct the device and the control board using a RJ45 cable
 
 - Connect the 12V, 36W power supply in the control board barrel jack connector
@@ -64,6 +69,10 @@
 - Select the frequency (0.05 - 1 Hz) and stretch length (using the stretch and frequancy knobs) and mode (pressing the stretch knob) 
 
 - Press the frequency knob to change the state of the device to active and it will start pulling, if pressed and held again it will stop at the end of the cycle
+
+- Place the PDMS wells in the rods
+<img width="762" height="518" alt="image" src="https://github.com/user-attachments/assets/d8207e16-ea7f-4ab7-a874-6ae795c77a1a" />
+
 
 #### Modes:
 - Cyclic stretch
