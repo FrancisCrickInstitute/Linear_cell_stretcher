@@ -1,5 +1,6 @@
-<img width="2040" height="1530" alt="20260602_132837" src="https://github.com/user-attachments/assets/51726811-2f61-4318-9367-4b0b999a77a0" />
 
+
+<img width="1280" height="720" alt="Slide2" src="https://github.com/user-attachments/assets/79189271-25b0-4073-b7c5-f6121c4fdc41" />
 
 ### Bill of Materials (BOM)
 
