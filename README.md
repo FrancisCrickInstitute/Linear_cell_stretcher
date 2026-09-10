@@ -30,7 +30,7 @@
 
 - Attach the linear stepper connection board at the back of the motor with the 3D printed spacer in between
 - Place four M3 inserts in the enclosure base and lid holes
-- Glue the big part of the lid cover on top of the 3D printed enclosure lid
+- Glue the big part of the lid cover on top of the 3D printed enclosure lid. The front smaller lid is not glued as it is removable to be able to access the wells with the pipette
 
 - Change the position of the homing sensor using the front side M3 tapped holes
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/16f881c6-4adf-4f81-81e0-fad2cabbddc9" />
