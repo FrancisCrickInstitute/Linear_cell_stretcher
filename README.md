@@ -12,7 +12,7 @@
 | M2 threaded inserts | 4 | [Amazon](https://www.amazon.co.uk/dp/B0DFBVLHH7?ref=fed_asin_title&th=1) |
 | M3 threaded inserts | 4 | [Amazon](https://www.amazon.co.uk/dp/B0DFBTB5LN?ref=fed_asin_title&th=1) |
 | M2 screws | 4 | [Accu]() |
-| M3 screws | 8 | [Accu]() |
+| M3 screws | 10 | [Accu]() |
 | 5 mm rods (For the stretcher)| 1 | [Amazon](https://www.amazon.co.uk/dp/B0FHK1SYZM?ref=fed_asin_title&th=1) |
 | 5.2 mm rods (For the mould)| 1 | [Amazon](https://www.amazon.co.uk/dp/B0DYT6DDYS?ref=fed_asin_title&th=1) |
 | 12V AD/DC power adapter | 1 | [Amazon](https://www.amazon.co.uk/Adapter-100-240V-Transformer-Charger-Cameras/dp/B0FJ5NYKD2/ref=sr_1_1_sspa?crid=6YTZ6LN7BSLS&dib=eyJ2IjoiMSJ9.9Byisz9i4tH97dhDhpzTIwfUvVsrxEJx1myTcrUXhjZWyJhMo7WOqak-2_bwfGS2KHJMIW5Ge3JxD97DEQkpPA9al5dujPYnE6-y4aAbSjaDOE4lSm2NYjVMXxVcQAYVCgJsE5MpsLZQFchw1YstizjceF8Uo9wWck6duFo6MveHvSz-ALDMLNQBBWGwmmPpbwRwQOv40WAXng01IAQz-IC5ZVwLUXqttM_IHh7iJWA.zrYlMtvUruTa96Vh3CkU1JSdsLA8yGTd_5ngZqkeAAQ&dib_tag=se&keywords=12v%2Bac%2Fdc%2Bpower%2Badapter%2B3A&qid=1786965498&sprefix=12v%2Bac%2Fdc%2Bpower%2Badapter%2B3a%2Caps%2C167&sr=8-1-spons&aref=55OFwy3Fm4&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
@@ -22,6 +22,10 @@
 ### Assembly instructions
 
 - 3D print the components using more than 50% infill settings and PLA as material
+- Insert M2 threaded inserts on the bottom sides of the 3D printed parts: puller and the enclosure base
+- Solder the PCB components
+- Solder the optical homing sensor cable and the stepper motor cable with the linear stepper connection board
+- Attach the linear stepper connection board at the back of the motor with the 3D printed spacer in between 
 
 - Change the position of the homing sensor using the front side M3 tapped holes
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/16f881c6-4adf-4f81-81e0-fad2cabbddc9" />
@@ -35,3 +39,5 @@
 - Attach the linear stage with the enclosure base (3D printed) using four M3 screws
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/a0deb7cf-adf3-4c3f-bb51-e8a70bd0439a" />
 
+- The 5 mm bars are held using
+- Conenct the device and the control board 
