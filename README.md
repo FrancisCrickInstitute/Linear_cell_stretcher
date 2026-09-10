@@ -1,4 +1,4 @@
-
+## Linear cell stretcher
 
 <img width="1280" height="720" alt="Slide2" src="https://github.com/user-attachments/assets/79189271-25b0-4073-b7c5-f6121c4fdc41" />
 
@@ -11,12 +11,12 @@
 | Stepper motor driver | 1 | [Amazon](https://www.amazon.co.uk/dp/B07XRF8YPX?ref=fed_asin_title) |
 | M2 threaded inserts | 4 | [Amazon](https://www.amazon.co.uk/dp/B0DFBVLHH7?ref=fed_asin_title&th=1) |
 | M3 threaded inserts | 4 | [Amazon](https://www.amazon.co.uk/dp/B0DFBTB5LN?ref=fed_asin_title&th=1) |
-| M2 screws | 4 | [Accu]() |
-| M3 screws | 10 | [Accu]() |
 | 5 mm rods (For the stretcher)| 1 | [Amazon](https://www.amazon.co.uk/dp/B0FHK1SYZM?ref=fed_asin_title&th=1) |
 | 5.2 mm rods (For the mould)| 1 | [Amazon](https://www.amazon.co.uk/dp/B0DYT6DDYS?ref=fed_asin_title&th=1) |
 | 12V AD/DC power adapter | 1 | [Amazon](https://www.amazon.co.uk/Adapter-100-240V-Transformer-Charger-Cameras/dp/B0FJ5NYKD2/ref=sr_1_1_sspa?crid=6YTZ6LN7BSLS&dib=eyJ2IjoiMSJ9.9Byisz9i4tH97dhDhpzTIwfUvVsrxEJx1myTcrUXhjZWyJhMo7WOqak-2_bwfGS2KHJMIW5Ge3JxD97DEQkpPA9al5dujPYnE6-y4aAbSjaDOE4lSm2NYjVMXxVcQAYVCgJsE5MpsLZQFchw1YstizjceF8Uo9wWck6duFo6MveHvSz-ALDMLNQBBWGwmmPpbwRwQOv40WAXng01IAQz-IC5ZVwLUXqttM_IHh7iJWA.zrYlMtvUruTa96Vh3CkU1JSdsLA8yGTd_5ngZqkeAAQ&dib_tag=se&keywords=12v%2Bac%2Fdc%2Bpower%2Badapter%2B3A&qid=1786965498&sprefix=12v%2Bac%2Fdc%2Bpower%2Badapter%2B3a%2Caps%2C167&sr=8-1-spons&aref=55OFwy3Fm4&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
 | RJ45 patch cable | 1 | [Amazon]() |
+| M2 screws | 4 | [Accu]() |
+| M3 screws | 10 | [Accu]() |
 
 
 ### Assembly instructions
@@ -67,6 +67,8 @@
 
 
 ### PDMS mould casting process
+
+The moulds for creating the wells have been 3D printed using Formlabs clear V5 resin in a Form 4 3D printer. After IPA washing (15 min) and UV curing (60 degC for 1h on the Formlabs Form cure) they have been baked in the oven at 75 degC for 4h to ensure a completely crosslinked structure. Then 1:10 PDMS ratio has been poured and cured at 65 degC for 4h. Then the 5.2 mm rods can be removed and the PDMS wells carefully peeled off using a flat thin spatula.
 
 <img width="1386" height="646" alt="image" src="https://github.com/user-attachments/assets/a2183dd7-f9f1-4db1-ae2a-39e309a966d6" />
 
