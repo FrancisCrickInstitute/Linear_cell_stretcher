@@ -28,9 +28,12 @@
 - Insert M2 threaded inserts on the bottom sides of the 3D printed parts: puller and the enclosure base
 - Solder the Control PCB components
 - Solder the optical homing sensor cable and the stepper motor cable with the linear stepper connection board
-<img width="1408" height="558" alt="image" src="https://github.com/user-attachments/assets/26ecda6b-5f5d-449b-b183-94ac2c02229c" />
+<img width="1420" height="590" alt="image" src="https://github.com/user-attachments/assets/a39745a1-9c80-46ca-93bc-047721532de1" />
 
-- Attach the linear stepper connection board at the back of the motor with the 3D printed spacer in between
+
+- Attach the linear stepper connection board at the back of the motor with the 3D printed spacer in between removing two of the original stepper motor screws and replacing them by two 50 mm M3 screws.
+<img width="796" height="416" alt="image" src="https://github.com/user-attachments/assets/1555c116-4972-447d-81b8-615ea42dfa9f" />
+
 - Place four M3 inserts in the enclosure base and lid holes
 - Glue the big part of the lid cover on top of the 3D printed enclosure lid. The front smaller lid is not glued as it is removable to be able to access the wells with the pipette
 
