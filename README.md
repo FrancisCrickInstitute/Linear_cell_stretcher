@@ -14,9 +14,11 @@
 | 5 mm rods (For the stretcher)| 1 | [Amazon](https://www.amazon.co.uk/dp/B0FHK1SYZM?ref=fed_asin_title&th=1) |
 | 5.2 mm rods (For the mould)| 1 | [Amazon](https://www.amazon.co.uk/dp/B0DYT6DDYS?ref=fed_asin_title&th=1) |
 | 12V AD/DC power adapter | 1 | [Amazon](https://www.amazon.co.uk/Adapter-100-240V-Transformer-Charger-Cameras/dp/B0FJ5NYKD2/ref=sr_1_1_sspa?crid=6YTZ6LN7BSLS&dib=eyJ2IjoiMSJ9.9Byisz9i4tH97dhDhpzTIwfUvVsrxEJx1myTcrUXhjZWyJhMo7WOqak-2_bwfGS2KHJMIW5Ge3JxD97DEQkpPA9al5dujPYnE6-y4aAbSjaDOE4lSm2NYjVMXxVcQAYVCgJsE5MpsLZQFchw1YstizjceF8Uo9wWck6duFo6MveHvSz-ALDMLNQBBWGwmmPpbwRwQOv40WAXng01IAQz-IC5ZVwLUXqttM_IHh7iJWA.zrYlMtvUruTa96Vh3CkU1JSdsLA8yGTd_5ngZqkeAAQ&dib_tag=se&keywords=12v%2Bac%2Fdc%2Bpower%2Badapter%2B3A&qid=1786965498&sprefix=12v%2Bac%2Fdc%2Bpower%2Badapter%2B3a%2Caps%2C167&sr=8-1-spons&aref=55OFwy3Fm4&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
+| M3 x 50 mm button screws | 2 | [Accu](https://www.accu.co.uk/socket-button-screws/8115-SSB-M3-50-A2) |
 | RJ45 patch cable | 1 | [Amazon]() |
 | M2 screws | 4 | [Accu]() |
 | M3 screws | 10 | [Accu]() |
+
 
 
 ### Assembly instructions
