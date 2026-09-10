@@ -19,3 +19,4 @@
 
 
 ### Assembly instructions
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/16f881c6-4adf-4f81-81e0-fad2cabbddc9" />
