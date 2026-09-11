@@ -54,7 +54,8 @@
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c11f1a95-af83-4d85-bf49-a08f01d84a8e" />
 
 - Grab the optical sensor cable through the two cable guides
-- <img width="950" height="461" alt="image" src="https://github.com/user-attachments/assets/42f383da-cc16-464b-b19f-9821828b1acf" />
+<img width="989" height="487" alt="image" src="https://github.com/user-attachments/assets/3cdf742a-8f86-422d-80fb-2e426f46567d" />
+
 
 - Place 4 grub screws into the enclosure lid holes and place the lid on top of the enclosure base
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/93f9021d-d1bc-46fb-b2ff-f8e23f0bdd23" />
